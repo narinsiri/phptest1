@@ -1,0 +1,11 @@
+body {
+	font-family:tahoma, verdana;
+	font-size:16px;
+}
+
+.errortext {
+    display: none;
+    color:red;
+    font-weight: bold;
+    float:right;
+}
